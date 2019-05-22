@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_191270_gurjot_tt" label="t" language="en" table="cmdb_ci_lb_ace">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_191270_gurjot_tt</element>
+            <help/>
+            <hint/>
+            <label>t</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_ace</name>
+            <plural>ts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-22 09:37:19</sys_created_on>
+            <sys_id>0dd104c6dbe133006281af26489619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>t</sys_name>
+            <sys_package display_value="gurjot" source="x_191270_gurjot">771cbf31dbe133006281af26489619b1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="gurjot">771cbf31dbe133006281af26489619b1</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_lb_ace_x_191270_gurjot_tt_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-22 09:37:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
