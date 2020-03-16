@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_191270_gurjot.newest</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>newest</name>
+        <script><![CDATA[var newest = Class.create();
+newest.prototype = {
+    initialize: function() {
+    },
+	hello:function(){
+		gs.addErrorMessage('new');
+	},
+    type: 'newest'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-16 10:02:38</sys_created_on>
+        <sys_id>c6da7b862f2f4010a337d0e62799b690</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>newest</sys_name>
+        <sys_package display_value="gurjot" source="x_191270_gurjot">771cbf31dbe133006281af26489619b1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="gurjot">771cbf31dbe133006281af26489619b1</sys_scope>
+        <sys_update_name>sys_script_include_c6da7b862f2f4010a337d0e62799b690</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-16 10:02:38</sys_updated_on>
+    </sys_script_include>
+</record_update>
