@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-22 09:14:56</sys_created_on>
-        <sys_id>c1bcffb1dbe133006281af264896194d</sys_id>
+        <sys_id>890597ce2fab4010a337d0e62799b639</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_191270_gurjot_est</sys_name>
         <sys_package display_value="gurjot" source="x_191270_gurjot">771cbf31dbe133006281af26489619b1</sys_package>
         <sys_policy/>
         <sys_scope display_value="gurjot">771cbf31dbe133006281af26489619b1</sys_scope>
-        <sys_update_name>ua_table_licensing_config_c1bcffb1dbe133006281af264896194d</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_890597ce2fab4010a337d0e62799b639</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-05-22 09:14:56</sys_updated_on>
     </ua_table_licensing_config>
