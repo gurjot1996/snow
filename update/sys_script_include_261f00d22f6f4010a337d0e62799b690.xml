@@ -12,7 +12,7 @@ junkvalues.prototype = {
     initialize: function() {
     },
 	gurjot:function(){
-		gs.addErrorMessage('hello')
+		gs.addErrorMessage('hello world')
 	},
     type: 'junkvalues'
 };]]></script>
