@@ -12,7 +12,7 @@ newest.prototype = {
     initialize: function() {
     },
 	hello:function(){
-		gs.addErrorMessage('new');
+		gs.addErrorMessage('new file in git');
 	},
     type: 'newest'
 };]]></script>
